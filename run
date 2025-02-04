@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Wireless Toolkit v5.0 - Complete Injection Testing
 # With RTL8812 Validation and Advanced Diagnostics
 
